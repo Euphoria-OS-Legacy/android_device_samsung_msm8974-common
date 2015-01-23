@@ -1,13 +1,13 @@
 [
   {
     "remote":      "github",
-    "repository": "android_device_qcom_common",
+    "repository": "Euphoria-OS-Legacy/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "revision":    "lollipop"
   },
   {
     "remote":      "github",
-    "repository": "android_device_samsung_qcom-common",
+    "repository": "Euphoria-OS-Legacy/android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
     "revision":    "lollipop"
   }
